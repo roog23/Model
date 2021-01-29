@@ -2,7 +2,7 @@
 MVC
 =
 Model View Controller의 약자로 하나의 프로젝트를 구성하는 요소를 세가지 역할로 구분한 패턴을 의미
-<img src="https://user-images.githubusercontent.com/64243394/106255333-41c76800-625d-11eb-998d-498c7aa8fa53.png" width="50%">   
+<img src="https://user-images.githubusercontent.com/64243394/106255333-41c76800-625d-11eb-998d-498c7aa8fa53.png" width="60%">   
 모델 - 데이터와 비즈니스 로직을 관리   
 뷰 - 레이아웃과 화면 인터페이스   
 컨트롤러 - 데이터와 비즈니스 로직 간의 상호 작용
